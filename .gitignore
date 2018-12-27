@@ -1,0 +1,6 @@
+.mypy_cache/*
+labels.txt
+.vscode/*
+__pycache__/*
+built_graph/*
+images/*
